@@ -4,12 +4,13 @@ f_article-image:
   alt: null
 created-on: '2018-07-13T17:48:38.581Z'
 f_category-5: cms/category/illustration.md
+f_layout: Dark
 title: 'Japan House opens in mountainside to foster peak creativity. '
 slug: japan-house-opens
 f_text: >-
   Enim omittam qui id, ex quo atqui dictas complectitur. Nec ad timeam accusata,
   hinc justo falli id eum, ferri novum molestie eos cu.
-updated-on: '2018-09-24T18:51:47.924Z'
+updated-on: '2021-10-29T04:19:51.946Z'
 f_author-4: cms/team-members/reta-torphy.md
 f_article-header-image:
   url: /assets/external/617b22f95466f80c40f3feec_article-image.jpg
@@ -18,7 +19,7 @@ f_title: 'Japan House opens in mountainside to foster peak creativity. '
 f_tags:
   - cms/tags/interviews.md
   - cms/tags/featured.md
-published-on: '2021-10-28T22:25:49.507Z'
+published-on: '2021-10-29T04:21:41.267Z'
 layout: '[posts].html'
 tags: posts
 ---

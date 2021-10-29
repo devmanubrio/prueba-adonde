@@ -1030,8 +1030,14 @@ figcaption {
   text-transform: uppercase;
 }
 
+.h1.dark {
+  color: #fff;
+}
+
 .text-container {
   width: 75%;
+  background-color: #000;
+  color: #fff;
 }
 
 .section-title-big {

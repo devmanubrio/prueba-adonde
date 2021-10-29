@@ -25,9 +25,7 @@
 {{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<script src="/assets/external/netlify-identity-widget.js"></script><style>picture { border: 0;
         max-width: 100%;
         vertical-align: middle;
-        display: inline-block; }</style>
-        
-        </head>
+        display: inline-block; }</style></head>
 <body>
   {%- include "partials/navigation" -%}
   <div class="top-post wf-section">
@@ -36,7 +34,7 @@
         {%- assign collection = collections.posts | sort: "created-on" | limit: 1 -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="top-post-item w-dyn-item">
-              <a data-w-id="f584d68a-6baf-e0a3-5c39-421b1f2647d2" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.1, 1.1, 1) rotateX(-20DEG) rotateY(10DEG) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.1, 1.1, 1) rotateX(-20DEG) rotateY(10DEG) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.1, 1.1, 1) rotateX(-20DEG) rotateY(10DEG) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.1, 1.1, 1) rotateX(-20DEG) rotateY(10DEG) rotateZ(0) skew(0, 0);opacity:0;transform-style:preserve-3d" href="{{ item.url }}" class="top-post-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":10000,"size":"100vw"}]', 'class="post-image"' -%}</a>
+              <a data-w-id="f584d68a-6baf-e0a3-5c39-421b1f2647d2" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.1, 1.1, 1) rotateX(-20DEG) rotateY(10DEG) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.1, 1.1, 1) rotateX(-20DEG) rotateY(10DEG) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.1, 1.1, 1) rotateX(-20DEG) rotateY(10DEG) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.1, 1.1, 1) rotateX(-20DEG) rotateY(10DEG) rotateZ(0) skew(0, 0);opacity:0;transform-style:preserve-3d" href="{{ item.url }}" class="top-post-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":479,"size":"87vw"},{"max":767,"size":"92vw"},{"max":991,"size":"94vw"},{"max":10000,"size":"56vw"}]', 'class="post-image"' -%}</a>
               <div class="top-post-text">
                 {%- assign categoryOfPosts = item.data.f_category-5 | resolveReference -%}<a href="{{ categoryOfPosts.url }}" class="category-link">{{ categoryOfPosts.data.title }}</a>
                 <a href="{{ item.url }}" class="top-post-link-block w-inline-block">
@@ -63,7 +61,7 @@
         {%- assign collection = collections.posts | sort: "created-on" | offset: 1 | limit: 6 -%}<div class="posts-collection-list-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div data-w-id="56790bf8-d103-7ca9-e653-899a2f1bc2cb" style="opacity:0" role="list" class="posts-collection-list w-dyn-items w-row">
             {%- for item in collection -%}<div role="listitem" class="_3-collection-item w-dyn-item w-col w-col-4">
-              <a href="{{ item.url }}" class="posts-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":10000,"size":"100vw"}]', '' -%}</a>
+              <a href="{{ item.url }}" class="posts-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":479,"size":"87vw"},{"max":767,"size":"92vw"},{"max":10000,"size":"30vw"}]', '' -%}</a>
               <div class="post-info-text">
                 {%- assign categoryOfPosts = item.data.f_category-5 | resolveReference -%}<a href="{{ categoryOfPosts.url }}" class="category-link">{{ categoryOfPosts.data.title }}</a>
                 <a href="{{ item.url }}" class="post-title w-inline-block">
@@ -91,7 +89,7 @@
         {%- assign collection = collections.posts | sort: "created-on" | limit: 8 -%}<div class="posts-collection-list-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="posts-collection-list w-dyn-items w-row">
             {%- for item in collection -%}<div role="listitem" class="_4-collection-item w-dyn-item w-col w-col-3">
-              <a href="{{ item.url }}" class="posts-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":10000,"size":"100vw"}]', '' -%}</a>
+              <a href="{{ item.url }}" class="posts-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":479,"size":"87vw"},{"max":767,"size":"92vw"},{"max":991,"size":"46vw"},{"max":10000,"size":"22vw"}]', '' -%}</a>
               <div class="post-info-text">
                 {%- assign categoryOfPosts = item.data.f_category-5 | resolveReference -%}<a href="{{ categoryOfPosts.url }}" class="category-link">{{ categoryOfPosts.data.title }}</a>
                 <a href="{{ item.url }}" class="post-title w-inline-block">
@@ -120,7 +118,7 @@
         {%- assign collection = collections.posts | sort: "-created-on" | limit: 4 -%}<div class="posts-collection-list-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="posts-collection-list w-dyn-items w-row">
             {%- for item in collection -%}<div role="listitem" class="_2-collection-item w-dyn-item w-col w-col-6">
-              <a href="{{ item.url }}" class="posts-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":10000,"size":"100vw"}]', '' -%}</a>
+              <a href="{{ item.url }}" class="posts-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":479,"size":"87vw"},{"max":767,"size":"92vw"},{"max":10000,"size":"46vw"}]', '' -%}</a>
               <div class="post-info-text">
                 {%- assign categoryOfPosts = item.data.f_category-5 | resolveReference -%}<a href="{{ categoryOfPosts.url }}" class="category-link">{{ categoryOfPosts.data.title }}</a>
                 <a href="{{ item.url }}" class="post-title w-inline-block">

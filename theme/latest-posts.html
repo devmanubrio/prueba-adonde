@@ -37,7 +37,7 @@
         {%- assign collection = collections.posts | sort: "created-on" -%}<div class="posts-collection-list-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="posts-collection-list w-dyn-items w-row">
             {%- for item in collection -%}<div role="listitem" class="_3-collection-item w-dyn-item w-col w-col-4">
-              <a href="{{ item.url }}" class="posts-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":479,"size":"100vw"},{"max":767,"size":"92vw"},{"max":10000,"size":"30vw"}]', '' -%}</a>
+              <a href="{{ item.url }}" class="posts-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":479,"size":"87vw"},{"max":767,"size":"92vw"},{"max":10000,"size":"30vw"}]', '' -%}</a>
               <div class="post-info-text">
                 {%- assign categoryOfPosts = item.data.f_category-5 | resolveReference -%}<a href="{{ categoryOfPosts.url }}" class="category-link">{{ categoryOfPosts.data.title }}</a>
                 <a href="{{ item.url }}" class="post-title w-inline-block">

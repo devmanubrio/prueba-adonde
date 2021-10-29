@@ -29,7 +29,7 @@
 <body>
   {%- include "partials/navigation" -%}
   <div class="title-section wf-section">
-    <div data-w-id="c8f0aa1d-e0ec-8d59-bb5a-ab5abae6eecd" style="-webkit-transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="container cc-center">
+    {%- if f_layout == "Light" -%}<div data-w-id="c8f0aa1d-e0ec-8d59-bb5a-ab5abae6eecd" style="-webkit-transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 30PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="container cc-center">
       <div class="text-container">
         {%- assign categoryOfPosts = f_category-5 | resolveReference -%}<a href="{{ categoryOfPosts.url }}" class="section-title-text w-inline-block">
           {%- assign categoryOfPosts = f_category-5 | resolveReference -%}<div class="post-category-text">{{ categoryOfPosts.data.title }}</div>
@@ -40,7 +40,19 @@
           <a href="{{ team-membersOfPosts.url }}" class="post-author">{{ team-membersOfPosts.data.title }}</a>
         </div>
       </div>
-    </div>
+    </div>{%- endif -%}
+    {%- if f_layout == "Dark" -%}<div class="container cc-center">
+      <div class="text-container">
+        {%- assign categoryOfPosts = f_category-5 | resolveReference -%}<a href="{{ categoryOfPosts.url }}" class="section-title-text w-inline-block">
+          {%- assign categoryOfPosts = f_category-5 | resolveReference -%}<div class="post-category-text">{{ categoryOfPosts.data.title }}</div>
+        </a>
+        <h1 class="h1 dark">{{ title }}</h1>
+        <div class="post-author-text cc-center">
+          {%- assign team-membersOfPosts = f_author-4 | resolveReference -%}<div class="author-image-wrapper" style="background-image: url('{{team-membersOfPosts.data.f_avatar.url}}');"></div>
+          <a href="{{ team-membersOfPosts.url }}" class="post-author">{{ team-membersOfPosts.data.title }}</a>
+        </div>
+      </div>
+    </div>{%- endif -%}
   </div>
   <div class="post-image wf-section">
     <div class="container cc-post-image">{%- image f_article-header-image.url, f_article-header-image.alt, '[{"max":10000,"size":"100vw"}]', '' -%}</div>
@@ -48,6 +60,17 @@
   <div class="post-content wf-section">
     <div class="post-content-wrapper">
       <div class="rich-text w-richtext">{{ content | markdown }}</div>
+      <div class="w-richtext">
+        <h2>{{ texts.-3c0dda4d }}</h2>
+        <p>{{ texts.2e633c6a }}</p>
+        <figure class="w-richtext-align-center w-richtext-figure-type-image">
+          <div>{%- image images.-77fa4c0e.url, images.-77fa4c0e.alt, '[]', 'loading="lazy"' -%}</div>
+        </figure>
+        <h4>{{ texts.57fa6135 }}</h4>
+        <p>{{ texts.-a016b40 }}</p>
+        <h4>{{ texts.-4bffb26e }}</h4>
+        <p>{{ texts.-43ba1153 }}</p>
+      </div>
     </div>
   </div>
   {%- include "partials/separator" -%}
@@ -58,7 +81,7 @@
         {%- assign collection = collections.posts | sort: "created-on" | limit: 2 -%}<div class="posts-collection-list-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="posts-collection-list w-dyn-items w-row">
             {%- for item in collection -%}<div role="listitem" class="_2-collection-item w-dyn-item w-col w-col-6">
-              <a href="{{ item.url }}" class="posts-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":10000,"size":"100vw"}]', '' -%}</a>
+              <a href="{{ item.url }}" class="posts-image w-inline-block">{%- image item.data.f_article-image.url, item.data.f_article-image.alt, '[{"max":479,"size":"87vw"},{"max":767,"size":"92vw"},{"max":10000,"size":"46vw"}]', '' -%}</a>
               <div class="post-info-text">
                 {%- assign categoryOfPosts = item.data.f_category-5 | resolveReference -%}<a href="{{ categoryOfPosts.url }}" class="category-link">{{ categoryOfPosts.data.title }}</a>
                 <a href="{{ item.url }}" class="post-title w-inline-block">
