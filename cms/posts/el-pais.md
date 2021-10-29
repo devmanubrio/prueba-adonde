@@ -1,36 +1,34 @@
 ---
+title: El país de las 2 mil fosas
+created-on: 2021-10-28T23:14:01.300Z
+updated-on: 2021-10-28T23:17:08.943Z
+published-on: 2021-10-28T23:17:38.376Z
 f_article-image:
   url: /assets/external/617b2f440dc4d77e4a74f7d4_fosas-la-barca.jpeg
   alt: null
-created-on: '2021-10-28T23:14:01.300Z'
-f_category-5: cms/category/architecture.md
-title: El país de las 2 mil fosas
-slug: el-pais
-f_text: >-
-  Enim omittam qui id, ex quo atqui dictas complectitur. Nec ad timeam accusata,
-  hinc justo falli id eum, ferri novum molestie eos cu.
-updated-on: '2021-10-28T23:17:08.943Z'
-f_author-4: cms/team-members/alessandra-ortiz.md
 f_article-header-image:
   url: /assets/external/617b2f440dc4d77e4a74f7d4_fosas-la-barca.jpeg
   alt: null
 f_title: El pais de las 2000 mil fosas
+f_text: Enim omittam qui id, ex quo atqui dictas complectitur. Nec ad timeam
+  accusata, hinc justo falli id eum, ferri novum molestie eos cu.
+f_author-4: cms/team-members/alessandra-ortiz.md
+f_category-5: cms/category/architecture.md
+layout: "[posts].html"
+slug: el-pais
 f_tags:
   - cms/tags/featured.md
   - cms/tags/interviews.md
-published-on: '2021-10-28T23:17:38.376Z'
-layout: '[posts].html'
 tags: posts
+date: 2021-10-28T23:23:01.580Z
 ---
+*Desde 2006 a 2016 fueron descubiertos casi 2 mil entierros ilegales donde criminales desaparecieron personas. La barbarie abarca 24 estados del país, y uno de cada 7 municipios. En esta investigación documentamos más fosas clandestinas que las que el gobierno reconoce: una fosa cada dos días.*
 
-_Desde 2006 a 2016 fueron descubiertos casi 2 mil entierros ilegales donde criminales desaparecieron personas. La barbarie abarca 24 estados del país, y uno de cada 7 municipios. En esta investigación documentamos más fosas clandestinas que las que el gobierno reconoce: una fosa cada dos días._
-
-**Por: Alejandra Guillén, Mago Torres y Marcela Turati\*** 
+**Por: Alejandra Guillén, Mago Torres y Marcela Turati*** 
 
 ![Giff animado del mapa de fosas clandestinas nacional 2006-2018.](/assets/external/617b2eb6ae8d7dc2c60848c6_adondevan-header_comprimido.gif)
 
-  
-Hallazgo de fosas clandestinas en la comunidad de Arbolillo, municipio de Alvarado, Veracruz, donde fueron localizados 47 cráneos y múltiples restos humanos en mayo 2017.  
+Hallazgo de fosas clandestinas en la comunidad de Arbolillo, municipio de Alvarado, Veracruz, donde fueron localizados 47 cráneos y múltiples restos humanos en mayo 2017.\
 Fotografías: Félix Márquez
 
 El 20 de febrero de 1943 la comunidad purépecha de Angahuan observó atónita cómo se abrió la tierra, expulsó humo negro de su interior y comenzó a parir al Paricutín, el volcán más joven del mundo. Más de 60 años después, ese mismo municipio michoacano, fue sitio de otro hallazgo: al cavar la tierra, la policía encontró seis hombres maniatados, semi desnudos, con los ojos vendados y la yugular cortada. Era el 7 de septiembre de 2006.
@@ -55,7 +53,7 @@ Este es el mapa, al menos parcial, de la dimensión de la barbarie.
 
 Loading...
 
-[Ver mapa de fosas clandestinas 2006-2016 en pantalla completa](https://data.adondevanlosdesaparecidos.org/)  
+[Ver mapa de fosas clandestinas 2006-2016 en pantalla completa](https://data.adondevanlosdesaparecidos.org/)\
 Visualización: David Eads
 
 El fenómeno creció a niveles de catástrofe si se toma en cuenta que el año 2006 fueron descubiertas sólo 2 fosas, y que en los años siguientes subió a varios cientos el número de ellas.
@@ -80,10 +78,9 @@ Los reportes de la PGR o de la CNDH desmienten a todos, menos a uno.
 
 Sin embargo, Yucatán es el único estado donde nadie -ni la fiscalía local, la PGR, la CNDH o la prensa- había registrado hasta esa fecha el hallazgo de algún entierro clandestino.
 
-![](/assets/external/617b2eb7eda903e1c21eb454_buscadoras-ciencia-forense-ciudadana-graciela-perez_0002.jpeg)
+![](/assets/external/617b2eb7eda903e1c21eb454_buscadoras-ciencia-forense-ciudadana-graciela-perez_0002.jpeg "Titulo Mante")
 
-  
-Localización de una fosa clandestina en Ciudad Mante, Tamaulipas, México. Durante una búsqueda del Colectivo Milynali Red CFC, el 24 de enero del 2017.  
+Localización de una fosa clandestina en Ciudad Mante, Tamaulipas, México. Durante una búsqueda del Colectivo Milynali Red CFC, el 24 de enero del 2017.\
 Fotografía: Mónica González  
 
 ### PLAGA DE ENTIERROS
@@ -92,9 +89,9 @@ La pestilencia comenzó a impregnar el paisaje. Fue en 2010, en la temporada en 
 
 Fue entonces que detectaron que su punta, antes sellada, había sido ranurada, y el pozo reabierto.
 
-“Nos caló la vez que vinimos porque había harta sangre. Le dije a Nabor: “_Ira_, ¿y esa sangre qué?”. Y me dijo: ‘¿Quién sabe? ¿Traerían un animal?’. Sea lo que _haiga_ sido subía el aroma, olía a feo. Entonces nos fuimos a trabajar”, recordó Juan Viveros.
+“Nos caló la vez que vinimos porque había harta sangre. Le dije a Nabor: “*Ira*, ¿y esa sangre qué?”. Y me dijo: ‘¿Quién sabe? ¿Traerían un animal?’. Sea lo que *haiga* sido subía el aroma, olía a feo. Entonces nos fuimos a trabajar”, recordó Juan Viveros.
 
-“Luego alguna gente dio parte de que estaba oliendo a feo, y cuando se asomaron los de Protección Civil ahí estaba el agujero donde los aventaban _pa’bajo_: eran seres humanos los que estaban ahí”, dijo Nabor Baena.
+“Luego alguna gente dio parte de que estaba oliendo a feo, y cuando se asomaron los de Protección Civil ahí estaba el agujero donde los aventaban *pa’bajo*: eran seres humanos los que estaban ahí”, dijo Nabor Baena.
 
 “Nos dimos color de lo que había, que estaban sacando gente, que había gente almacenada, que ese pozo estaba premiado”, alternó Juan Viveros.
 
@@ -108,21 +105,16 @@ A partir de entonces, ese tipo de descubrimientos se fueron haciendo cada vez m�
 
 La sistematización de los datos oficiales obtenidos en esta investigación revela que:
 
-*   Los principales sitios de la muerte en México esos 11 años son el municipio de Veracruz, con 125 fosas en la que se localizaron 290 cráneos. El lugar exacto se llama Colinas de Santa Fe: ahí se han encontrado 22 mil 79 restos óseos de los que la autoridad aún no reporta a cuántas personas corresponden, y donde continúan las labores de desenterramiento. El otro es el municipio de San Fernando, a hora y media de la frontera con Texas, en Tamaulipas, que registró 139 fosas con 190 cuerpos y restos óseos en 11 años.
-
-*   Desde 2008, año con año, Ciudad Juárez aparece en esta estadística macabra. La sumatoria de fosas -sin contar los municipios del valle circundante- da 58. En tanto, Acapulco a partir de 2010 no ha faltado ningún año en la lista: esa ciudad-puerto de 2006 a 2016 acumuló 108 fosas.
-
-*   El municipio donde más cuerpos fueron extraídos en un año fue Durango, con 350, en 2011. Es también el municipio donde más cuerpos han sido encontrados en fosas: 460 en 7 años.
-
-*   Los estados que encabezan el número de fosas exhumadas en el lapso estudiado son: Veracruz (con 332); Tamaulipas (280); Guerrero (216); Chihuahua (194); Sinaloa (139); Zacatecas (138); Jalisco (137); Nuevo León (114); Sonora (86); Michoacán (76); San Luis Potosí (65).
-
-*   Morelos fue el único estado que mantuvo en secreto las fechas del hallazgo de sus 21 fosas y omitió mencionar en su lista las fosas de Tetelcingo, creadas por la propia fiscalía de manera clandestina y a donde enviaron cuerpos que deberían haber ido a fosa común hasta 2016, cuando se hizo pública su existencia.
-
-*   Los estados con más cuerpos contabilizados en fosas son: Durango (497); Chihuahua (391); Tamaulipas (336); Guerrero (325); Veracruz (222); Jalisco (214); Sinaloa (176); Michoacán (132); Nuevo León (119); Sonora (96); Zacatecas (81).
+* Los principales sitios de la muerte en México esos 11 años son el municipio de Veracruz, con 125 fosas en la que se localizaron 290 cráneos. El lugar exacto se llama Colinas de Santa Fe: ahí se han encontrado 22 mil 79 restos óseos de los que la autoridad aún no reporta a cuántas personas corresponden, y donde continúan las labores de desenterramiento. El otro es el municipio de San Fernando, a hora y media de la frontera con Texas, en Tamaulipas, que registró 139 fosas con 190 cuerpos y restos óseos en 11 años.
+* Desde 2008, año con año, Ciudad Juárez aparece en esta estadística macabra. La sumatoria de fosas -sin contar los municipios del valle circundante- da 58. En tanto, Acapulco a partir de 2010 no ha faltado ningún año en la lista: esa ciudad-puerto de 2006 a 2016 acumuló 108 fosas.
+* El municipio donde más cuerpos fueron extraídos en un año fue Durango, con 350, en 2011. Es también el municipio donde más cuerpos han sido encontrados en fosas: 460 en 7 años.
+* Los estados que encabezan el número de fosas exhumadas en el lapso estudiado son: Veracruz (con 332); Tamaulipas (280); Guerrero (216); Chihuahua (194); Sinaloa (139); Zacatecas (138); Jalisco (137); Nuevo León (114); Sonora (86); Michoacán (76); San Luis Potosí (65).
+* Morelos fue el único estado que mantuvo en secreto las fechas del hallazgo de sus 21 fosas y omitió mencionar en su lista las fosas de Tetelcingo, creadas por la propia fiscalía de manera clandestina y a donde enviaron cuerpos que deberían haber ido a fosa común hasta 2016, cuando se hizo pública su existencia.
+* Los estados con más cuerpos contabilizados en fosas son: Durango (497); Chihuahua (391); Tamaulipas (336); Guerrero (325); Veracruz (222); Jalisco (214); Sinaloa (176); Michoacán (132); Nuevo León (119); Sonora (96); Zacatecas (81).
 
 ![Fotografía: Erika Lozano](/assets/external/617b2eb7aea8b7bf882ba5ca_001.jpeg)
 
-Familiares de FUNDENL acompañan a las autoridades y peritos durante el resguardo de restos de personas en una fosa clandestina localizada en el Cerro del Fraile en el municipio de García, Nuevo León, Mayo 2017.  
+Familiares de FUNDENL acompañan a las autoridades y peritos durante el resguardo de restos de personas en una fosa clandestina localizada en el Cerro del Fraile en el municipio de García, Nuevo León, Mayo 2017.\
 Fotografía: Erika Lozano
 
 ### HASTA DENTRO DE CASA
@@ -143,7 +135,7 @@ En 18 de los 24 estados hay registro de fosas en municipios de ciudades capitale
 
 ![](/assets/external/617b2eb75749a995abfc7785_ppardo-fosa-carrizalillo1.jpeg)
 
-Los residentes de Carrizalillo, Guerrero, localizan una fosa clandestina en una mina 19 de noviembre del 2015.  
+Los residentes de Carrizalillo, Guerrero, localizan una fosa clandestina en una mina 19 de noviembre del 2015.\
 Fotografía: Pedro Pardo
 
 ### LA DANZA DE LAS CIFRAS
@@ -156,8 +148,7 @@ Esa imagen divulgada por el gobierno veracruzano ilustraba la noticia que el pas
 
 ![](/assets/external/617b2eb70dc4d7336a74f796_tamaulipas_monicagonzalez_1.jpeg)
 
-  
-Ropa encontrada en una casa de seguridad en Ciudad Mante, Tamaulipas, México. Durante una búsqueda del Colectivo Milynali Red CFC, el 24 de enero del 2017.   
+Ropa encontrada en una casa de seguridad en Ciudad Mante, Tamaulipas, México. Durante una búsqueda del Colectivo Milynali Red CFC, el 24 de enero del 2017. \
 Fotografía: Mónica González
 
 Al hallazgo le siguió un baile errático de cifras. El equipo de la futura Secretaría federal de Gobernación habló de las cifras tan dispares que les había dado el gobierno federal saliente: son 855 les dijeron en SEGOB, 1 mil 150 en la Comisión Nacional de Búsqueda. 
@@ -186,7 +177,7 @@ Esto origina el subregistro de cementerios clandestinos de gran escala, como los
 
 ![](/assets/external/617b2eb6ee6ef0dfa74cc5b0_fosas-la-barca.jpeg)
 
-Trabajos de peritos en la fosa clandestina localizada en noviembre del 2013, en la localidad de La Barca, Jalisco, México.   
+Trabajos de peritos en la fosa clandestina localizada en noviembre del 2013, en la localidad de La Barca, Jalisco, México. \
 Fotografía: Rafael del Río
 
 Este reportaje y el mapa que acuerpa la información encontrada, también clasifica de manera diferenciada, y en espacios separados, ambas fuentes de información, la proporcionada por fiscalías locales y por la PGR.
@@ -199,8 +190,7 @@ Tras ver el mapa dice que seguramente lugares como la Sierra de Guerrero existen
 
 ![](/assets/external/617b2eb86c3c179623c3ebd8_ppardo-fosa-carrizalillo2.jpeg)
 
-  
-Los residentes de Carrizalillo, Guerrero, México. Localizan una fosa clandestina cerca de las instalaciones de la mina. El 19 de noviembre del 2015.  
+Los residentes de Carrizalillo, Guerrero, México. Localizan una fosa clandestina cerca de las instalaciones de la mina. El 19 de noviembre del 2015.\
 Fotografía: Pedro Pardo  
 
 ### LOS SITIOS DE LA MUERTE
@@ -217,7 +207,7 @@ Un chivero le dijo que él llegó a ver de 80 a 90 tambos donde quemaban a la ge
 
 \-¿Y los tambos? 
 
-\-Se los llevaron _pa’l kilo_, pero allá quedan dos – dijo el señor y la llevó a donde éstos se encontraban, recuerda que le contestó.
+\-Se los llevaron *pa’l kilo*, pero allá quedan dos – dijo el señor y la llevó a donde éstos se encontraban, recuerda que le contestó.
 
 Patrocinio era sólo un sitio del exterminio como otros que se habían creado en Coahuila. El Grupo Vida, colectivo de rastreadores del que formaba parte la señora López, ubicó otros puntos con tambos agujereados conun talache (pico), en los que metían a la gente y la quemaban con diesel y gasolina. Alrededor ponían una llanta de tráiler para contener el fuego, en hoyos vaciaban los restos quemados.
 
@@ -225,8 +215,7 @@ Lucy, como es mejor conocida, se organizó con otras familias para realizar la C
 
 ![](/assets/external/617b2eb7c2fb0f381fe24900_002.jpeg)
 
-  
-Una mujer busca en uno de los 22 sitios ubicados por el colectivo "VIDA" como sitios de exterminio, cerca de la ciudad de Torreón, Coahuila, México, el 2 de julio de 2017.  
+Una mujer busca en uno de los 22 sitios ubicados por el colectivo "VIDA" como sitios de exterminio, cerca de la ciudad de Torreón, Coahuila, México, el 2 de julio de 2017.\
 Fotografía: Mónica González
 
 En México las búsquedas se han realizado cuando la violencia no ha amainado, en medio de la “guerra”, cuando muchos de los territorios donde se oculta a personas aún están controlados por mafias. Los paisajes forenses siguen siendo escenas del crimen y algunos, zonas de exterminio. Muchos de los hallazgos han sido gracias a las investigaciones de las familias.
@@ -243,8 +232,7 @@ O cuando los restos fueron quemados, incinerados o disueltos usando ácidos o m�
 
 ![](/assets/external/617b2eb8d7cbd847395da164_buscadoras-desaparecidos_006.jpeg)
 
-  
-Una bolsa con restos humanos quemados recolectada durante la operación de búsqueda realizada el 2 de julio de 2016 por el colectivo "VIDA", cerca de la ciudad de Torreón en el estado de Coahuila, México.  
+Una bolsa con restos humanos quemados recolectada durante la operación de búsqueda realizada el 2 de julio de 2016 por el colectivo "VIDA", cerca de la ciudad de Torreón en el estado de Coahuila, México.\
 Fotografía: Mónica González
 
 En otros estados pareciera que las propias fiscalías perdieron el rastro de los cuerpos que tienen bajo su resguardo. Es el caso de Sonora que, al solicitarle información de un cuerpo recuperado en Nogales en 2016 respondió: se “desconoce si fue identificado”; sobre dos cuerpos del municipio de Naco de 2008 indicó: "no se cuenta con la información debido a baja del médico". Sobre otros: “no se sabe si fueron cremados ni se conoce el lugar de resguardo”.
@@ -267,7 +255,7 @@ Un lente para mirar el mapa de fosas derivado de esta investigación es la que p
 
 ![](/assets/external/617b2eb8749ad936750f78af_semefocdmx_monicagonzalez_3.jpeg)
 
-Muestras de ADN analizadas en las instalaciones del Servicio Médico Forense de la Ciudad de México, 9 de mayo del 2011.  
+Muestras de ADN analizadas en las instalaciones del Servicio Médico Forense de la Ciudad de México, 9 de mayo del 2011.\
 Fotografía: Mónica González
 
 ### TORRE DE BABEL FORENSE
@@ -306,7 +294,7 @@ Cuando su familia se enteró del hallazgo de las fosas, y como Carlos Alberto ha
 
 ![](/assets/external/617b2eb82d26ad90f9fca682_bertila-parado_mg_1.jpeg)
 
-Bertila Parada sostiene la foto de su hijo Carlos Alberto,  migrante salvadoreño hallado en una fosa común de Tamaulipas.  
+Bertila Parada sostiene la foto de su hijo Carlos Alberto,  migrante salvadoreño hallado en una fosa común de Tamaulipas.\
 FOTO: MÓNICA GONZÁLEZ
 
 “Aquí estuvo enterrado. ¿Por qué tanto tiempo sin poderlo traer? En esta colina estuvo”, dijo su madre, doña Bertila Parada, vendedora de pupusas, al ser entrevistada en 2016, mientras mostraba la carpeta que recibió el 28 de enero de 2015 y que contiene las fotos del cráneo destrozado de su hijo y del panteón donde reposaba bajo una cruz oxidada que marcaba su tumba. Cuando llevaba como identidad las señas “Cuerpo 3 Fosa 3”.
@@ -321,14 +309,14 @@ En México 37 mil 485 personas están reportadas como desaparecidas entre diciem
 
 ![](/assets/external/617b2eb852e2b7267386b0c3_sinolvido9.jpeg)
 
-En cerros y montañas, las fosas clandestinas en México se localizan en uno de cada siete municipios.  
+En cerros y montañas, las fosas clandestinas en México se localizan en uno de cada siete municipios.\
 Fotografía: Erika Lozano
 
 **\*CRÉDITOS:**
 
 Visualización : David Eads. Con información de Gilberto Lastra.
 
-Las solicitudes de información para la investigación #MéxicoPaísdeFosas fueron realizadas por Alejandra Guillén, con apoyo de Aranzazú Ayala y Paloma Robles, y asesoría de Juan Carlos Solís (✝) y Mayra Torres.  
+Las solicitudes de información para la investigación #MéxicoPaísdeFosas fueron realizadas por Alejandra Guillén, con apoyo de Aranzazú Ayala y Paloma Robles, y asesoría de Juan Carlos Solís (✝) y Mayra Torres.\
 Pedro Zamora, Carlos Juárez, Daniela Rea, Erika Lozano, Carlos Quintero y Rodrigo Caballero colaboraron con solicitudes de información de sus estados.
 
 La realización de la base de datos estuvo a cargo de Alejandra Guillén y Mago Torres, con apoyo de Aranzazú Ayala y Paloma Robles. El análisis de datos lo realizó Mago Torres.
